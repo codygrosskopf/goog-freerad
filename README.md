@@ -18,3 +18,4 @@ In this section we will:
 Debian/Ubuntu:
 ```sudo apt-get install freeradius freeradius-ldap```
 
+Centos: ```yum install freeradius freeradius-ldap```
